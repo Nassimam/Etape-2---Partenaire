@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Afficher_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>8a557879-8dda-4c8f-95be-a668d0c08417</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-headquarter-bi/div/ui-view/iad-headquarter-bi-partner/ui-view/iad-headquarter-bi-partner-list-page/iad-bi-partner-list-filters/div/div/div/form/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iad-goto-top&quot;)/div[@class=&quot;container-fluid&quot;]/div[2]/iad-content-body[@class=&quot;ng-scope&quot;]/iad-headquarter-bi[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;bi-content&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-headquarter-bi-partner[@class=&quot;ng-scope ng-isolate-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-headquarter-bi-partner-list-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/iad-bi-partner-list-filters[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;myiad-list myiad-project-list ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;search-box col-sm-5 col-sm-offset-1&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-valid&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-addon&quot;]/span[@class=&quot;fa fa-search&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-headquarter-bi/div/ui-view/iad-headquarter-bi-partner/ui-view/iad-headquarter-bi-partner-list-page/iad-bi-partner-list-filters/div/div/div/form/div/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

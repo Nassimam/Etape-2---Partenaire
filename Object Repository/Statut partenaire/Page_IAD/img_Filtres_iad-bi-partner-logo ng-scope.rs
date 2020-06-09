@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Filtres_iad-bi-partner-logo ng-scope</name>
+   <tag></tag>
+   <elementGuidId>abb01e70-5f38-405a-b67a-c7710e9b351d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-headquarter-bi/div/ui-view/iad-headquarter-bi-partner/ui-view/iad-headquarter-bi-partner-list-page/iad-infinite-list/div/iad-infinite-scroll/div/iad-list/ul/li/div/iad-list-item/iad-bi-partner-list-item/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>$ctrl.detail.extraData.logo</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://p13.demo.iadholding.com/docs/business_indication_partner_pictures/60/9a/db/609adbd849dbeb4e06d4f22a5ddfca820729ffc929a5b106f320740b400cbaf6.jpeg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iad-bi-partner-logo ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iad-goto-top&quot;)/div[@class=&quot;container-fluid&quot;]/div[2]/iad-content-body[@class=&quot;ng-scope&quot;]/iad-headquarter-bi[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;bi-content&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-headquarter-bi-partner[@class=&quot;ng-scope ng-isolate-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-headquarter-bi-partner-list-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/iad-infinite-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;iad-infinite-list&quot;]/iad-infinite-scroll[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;iad-infinite-scroll ng-isolate-scope&quot;]/iad-list[@class=&quot;ng-scope ng-isolate-scope&quot;]/ul[@class=&quot;iad-list iad-list-grid&quot;]/li[@class=&quot;iad-list-item ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/iad-list-item[@class=&quot;ng-scope&quot;]/iad-bi-partner-list-item[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;myiad-list-item myiad-project-list-item&quot;]/div[@class=&quot;iad-list-item-title&quot;]/div[@class=&quot;iad-list-item-avatar&quot;]/img[@class=&quot;iad-bi-partner-logo ng-scope&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-headquarter-bi/div/ui-view/iad-headquarter-bi-partner/ui-view/iad-headquarter-bi-partner-list-page/iad-infinite-list/div/iad-infinite-scroll/div/iad-list/ul/li/div/iad-list-item/iad-bi-partner-list-item/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://p13.demo.iadholding.com/docs/business_indication_partner_pictures/60/9a/db/609adbd849dbeb4e06d4f22a5ddfca820729ffc929a5b106f320740b400cbaf6.jpeg')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+   </webElementXpaths>
+</WebElementEntity>

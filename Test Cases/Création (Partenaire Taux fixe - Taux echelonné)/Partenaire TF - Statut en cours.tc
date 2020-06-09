@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Partenaire TF - Statut en cours</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c98b1e36-7464-4056-9ea1-1fc71873d53e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64e933da-f186-4372-a85e-bf7fbbbac8e5</id>
+      <masked>false</masked>
+      <name>nom_partenaire</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43d9f1a8-6cb5-46fa-bcc9-3cc75caf2662</id>
+      <masked>false</masked>
+      <name>Taux_commission</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24b151d5-33bd-4315-ae8a-ed95726d7938</id>
+      <masked>false</masked>
+      <name>Plafond</name>
+   </variable>
+</TestCaseEntity>

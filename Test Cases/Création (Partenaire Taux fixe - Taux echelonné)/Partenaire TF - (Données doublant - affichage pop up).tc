@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Partenaire TF - (Données doublant - affichage pop up)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cd13a2c-58e8-4a45-9ba1-cbfeeb9b2453</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39157da9-4466-4ad5-856f-f12ef05fac5e</id>
+      <masked>false</masked>
+      <name>nom_partenaire</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca358035-dcff-4088-8761-6c4c05aa3809</id>
+      <masked>false</masked>
+      <name>Taux_commission</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab80e898-44f0-4aa5-b065-7f86ca1c59ce</id>
+      <masked>false</masked>
+      <name>Plafond</name>
+   </variable>
+</TestCaseEntity>

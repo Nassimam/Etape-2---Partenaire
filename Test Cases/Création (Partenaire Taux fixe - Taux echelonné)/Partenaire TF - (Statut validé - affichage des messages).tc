@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Partenaire TF - (Statut validé - affichage des messages)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e7f66bf-509f-43a9-9217-9cb1c5d6963d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e686df35-96de-4a67-a616-7e0c19e88d64</id>
+      <masked>false</masked>
+      <name>nom_partenaire</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1de8c4c2-a8d8-4571-904c-42a49ce50dc9</id>
+      <masked>false</masked>
+      <name>Taux_commission</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24ff80d8-523c-4378-a5a1-2117df6e007d</id>
+      <masked>false</masked>
+      <name>Plafond</name>
+   </variable>
+</TestCaseEntity>

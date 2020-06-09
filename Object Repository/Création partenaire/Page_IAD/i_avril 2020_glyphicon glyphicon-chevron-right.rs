@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_avril 2020_glyphicon glyphicon-chevron-right</name>
+   <tag></tag>
+   <elementGuidId>8da72737-3c83-4afb-8438-e39461973f30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-3102-9048-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-headquarter-bi-partner-step-agreements/iad-block/section/div/iad-block-body/iad-bi-convention/div[2]/div[2]/div/div/ul/li/div/div/div/table/thead/tr/th[3]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-chevron-right</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-3102-9048-panel&quot;)/div[@class=&quot;panel-body&quot;]/iad-my-iad-accordion-group-body[1]/div[@class=&quot;myiad-accordion-group-body&quot;]/ng-transclude[1]/div[1]/iad-headquarter-bi-partner-step-agreements[1]/iad-block[1]/section[@class=&quot;iad-block margin-top-20&quot;]/div[@class=&quot;iad-block-content clearfix&quot;]/iad-block-body[1]/iad-bi-convention[1]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;ng-pristine ng-untouched ng-valid ng-empty ng-valid-date-disabled&quot;]/ul[@class=&quot;uib-datepicker-popup dropdown-menu&quot;]/li[1]/div[@class=&quot;uib-datepicker&quot;]/div[1]/div[@class=&quot;uib-daypicker&quot;]/table[1]/thead[1]/tr[1]/th[3]/button[@class=&quot;btn btn-default btn-sm pull-right uib-right&quot;]/i[@class=&quot;glyphicon glyphicon-chevron-right&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-3102-9048-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-headquarter-bi-partner-step-agreements/iad-block/section/div/iad-block-body/iad-bi-convention/div[2]/div[2]/div/div/ul/li/div/div/div/table/thead/tr/th[3]/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/button/i</value>
+   </webElementXpaths>
+</WebElementEntity>

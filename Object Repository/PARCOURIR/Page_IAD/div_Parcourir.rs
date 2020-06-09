@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Parcourir</name>
+   <tag></tag>
+   <elementGuidId>38ec5ddf-136b-4211-8dc4-fd376d401fda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'iad-bi-browse-picture-btn' and @ngf-select = '$ctrl.addFile($files)' and @ngf-multiple = 'true' and @ngf-max-size = '20MB' and (text() = 'Parcourir ... ' or . = 'Parcourir ... ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-740-7812-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-headquarter-bi-partner-step-general-data/iad-block/section/div/iad-block-body/iad-bi-identity/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iad-bi-browse-picture-btn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ngf-select</name>
+      <type>Main</type>
+      <value>$ctrl.addFile($files)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ngf-multiple</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ngf-max-size</name>
+      <type>Main</type>
+      <value>20MB</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Parcourir ... </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-740-7812-panel&quot;)/div[@class=&quot;panel-body&quot;]/iad-my-iad-accordion-group-body[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;myiad-accordion-group-body&quot;]/ng-transclude[1]/div[@class=&quot;ng-scope&quot;]/iad-headquarter-bi-partner-step-general-data[@class=&quot;ng-scope ng-isolate-scope&quot;]/iad-block[@class=&quot;ng-isolate-scope&quot;]/section[@class=&quot;iad-block margin-top-20&quot;]/div[@class=&quot;iad-block-content clearfix&quot;]/iad-block-body[@class=&quot;ng-scope&quot;]/iad-bi-identity[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;ng-pristine ng-invalid ng-invalid-required&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;iad-bi-browse-picture-btn&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import du logo du partenaire'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::div[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

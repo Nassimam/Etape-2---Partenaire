@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Slectionner une nature de convention _car_51845e</name>
+   <tag></tag>
+   <elementGuidId>db40df57-c0b7-4c45-b8ac-0350683ae8a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-769-5848-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-headquarter-bi-partner-step-agreements/iad-block/section/div/iad-block-body/iad-bi-convention/div/div/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret pull-right</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$select.toggle($event)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-769-5848-panel&quot;)/div[@class=&quot;panel-body&quot;]/iad-my-iad-accordion-group-body[1]/div[@class=&quot;myiad-accordion-group-body&quot;]/ng-transclude[1]/div[1]/iad-headquarter-bi-partner-step-agreements[1]/iad-block[1]/section[@class=&quot;iad-block margin-top-20&quot;]/div[@class=&quot;iad-block-content clearfix&quot;]/iad-block-body[1]/iad-bi-convention[1]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;ui-select-container ui-select-bootstrap dropdown ng-pristine ng-untouched ng-valid ng-empty&quot;]/div[@class=&quot;ui-select-match&quot;]/span[@class=&quot;btn btn-default form-control ui-select-toggle&quot;]/i[@class=&quot;caret pull-right&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-769-5848-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-headquarter-bi-partner-step-agreements/iad-block/section/div/iad-block-body/iad-bi-convention/div/div/div/div/span/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iad-bi-convention/div/div/div/div/span/i</value>
+   </webElementXpaths>
+</WebElementEntity>
